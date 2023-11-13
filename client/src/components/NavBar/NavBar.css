@@ -1,0 +1,18 @@
+.navbar {
+    display: left;
+    justify-content: space-around;
+    background-color: #333;
+    padding: 10px 50px;
+    position: relative;
+  }
+  
+  .nav-item {
+    color: white;
+    text-decoration: none; 
+    padding: 0 10px;
+  }
+  
+  .nav-item:hover {
+    text-decoration: underline; 
+  }
+  
